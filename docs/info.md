@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Just like rings template but use all inputs to switch the modes
 
 ## How to test
 
-Explain how to use your project
+Use all inputs to test different modes
 
 ## External hardware
 
